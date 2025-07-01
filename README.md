@@ -1,4 +1,4 @@
-# EC2MonitoringUsingCloudWatch
+# EC2 Monitoring Using CloudWatch
 This guide walks through setting up a CloudWatch dashboard and alarm to monitor an EC2 instance.
 
 ---
