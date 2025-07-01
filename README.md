@@ -3,7 +3,7 @@ This guide walks through setting up a CloudWatch dashboard and alarm to monitor 
 
 ---
 
-## ☁️ Access the Instance
+## ☁️ Step 1: Access the Instance
 1. Connect to your EC2 instance via **EC2 Instance Connect** or **SSH**.
 
 2. (Optional) Simulate CPU Load:
