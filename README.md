@@ -39,7 +39,7 @@ This guide walks you through creating an Amazon CloudWatch dashboard for monitor
 
 ---
 
-# 🚨 Step 3: Set a Basic Alarm (Bonus)
+# 🚨 Step 3: Set a Basic Alarm
 
 Set up a basic alarm to monitor your EC2 instance's CPU usage and get notified when it exceeds a certain threshold.
 
