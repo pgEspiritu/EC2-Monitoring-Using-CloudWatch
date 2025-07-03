@@ -1,5 +1,5 @@
-# 🚀 EC2 Monitoring with CloudWatch Dashboard – 
-
+# 🚀 EC2 Monitoring with CloudWatch Dashboard 
+## 👤 Owner **Paolo Gio Espiritu**
 
 ## ✅ Step-by-Step Guide
 
